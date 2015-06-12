@@ -2,4 +2,4 @@
 		
 		echo "Hello Git!";
 		echo "Hello Git2!";
-		echo "Hello New branch!";
+		echo "Hello new_f branch!";
